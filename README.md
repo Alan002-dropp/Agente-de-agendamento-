@@ -62,9 +62,9 @@ O sistema utiliza fatos e regras em **Prolog** para classificar tarefas, identif
 
 ## Integrantes
 
-Alan Nascimento
-Aquila Lopo
-Arthur Fagundes
+Alan Nascimento,
+Aquila Lopo,
+Arthur Fagundes,
 
 ## Disciplina
 
