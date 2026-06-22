@@ -26,7 +26,8 @@ O sistema utiliza fatos e regras em **Prolog** para classificar tarefas, identif
 
 ## Estrutura do Projeto
 
-* `organizaia.pl` – Arquivo principal contendo fatos, regras, consultas e implementação da busca.
+* `agente de agendamento.pl
+` – Arquivo principal contendo fatos, regras, consultas e implementação da busca.
 * `README.md` – Documentação do projeto.
 
 
